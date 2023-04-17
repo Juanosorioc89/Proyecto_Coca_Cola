@@ -1,0 +1,5 @@
+Manifest-Version: 1.0
+Created-By: HibahSoft S.A.
+Main-Class: Bienvenida
+X-COMMENT: Curso Java
+ 
